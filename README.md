@@ -391,7 +391,7 @@ wés: a moth species (T’bolí)
 
 #### Immature stages 
 
-###### Larval stages
+##### Larval stages
 
 abfafáli: a kind of caterpillar that destroys different sweetpotato varieties, such as *fayyási*, *fináychan*, and *karfó-oy*, *Ipomoea batatas* (L.) Lam. <sub>fam</sub>Convolvulaceae (Central Finontók [dial. Khinina-ang])
 

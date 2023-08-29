@@ -151,9 +151,9 @@ karibangbang: butterfly (Mansáka; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
 karibángbang: butterfly (Virác Bíkol [=Southern Catanduanes Bikol]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
-karibangbáng: butterfly (Pandán Bíkol [=Northern Catanduanes Bíkol, Pandan<sub>area</sub>]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
+karibangbáng: butterfly (Pandán Bíkol [=Northern Catanduanes Bíkol, Pandan<sub>area</sub>]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*, *syn*. kuripakpáw)
 
-karipakpáw: butterfly (Pandán Bíkol [=Northern Catanduanes Bíkol, Panganiban<sub>area</sub>, Viga<sub>area</sub>], *var*. kuripakpáw)
+karipakpáw: butterfly (Pandán Bíkol [=Northern Catanduanes Bíkol, Panganiban<sub>area</sub>, Viga<sub>area</sub>], *var*. kuripakpáw, *syn*. karibangbáng)
 
 kawkalibangbang<sub>*pl.*</sub>: butterfly (Sambál, singular: kalibángbang; PAn ***baŋbaŋ₂** *‘butterfly, moth’*) 
 
@@ -221,21 +221,21 @@ kulivavang: butterfly (Itbayat [=Ichbayaten]; PAn ***baŋbaŋ₂** *‘butterfly
 
 kupapé: butterfly (I-wak [Tojongan<sub>area</sub>]; PSCC ***ku(m)papɨ́y** *‘butterfly’*)
 
-kuripakpáw: butterfly (Pandán Bíkol [=Northern Catanduanes Bíkol, Panganiban<sub>area</sub>, Viga<sub>area</sub>], *var*. karipakpáw)
+kuripakpáw: butterfly (Pandán Bíkol [=Northern Catanduanes Bíkol, Panganiban<sub>area</sub>, Viga<sub>area</sub>], *var*. karipakpáw, *syn*. karibangbáng)
 
 kurupuy: butterfly< (Majukayang Kalíngga; PSCC ***ku(m)papɨ́y** *‘butterfly’*)
 
 léley: butterfly (Dupáningán Agtâ [=Eastern Cagayan Agtâ])
 
-lélle: butterfly (Dupáningán Agtâ [=Eastern Cagayan Agtâ])
+lélle: butterfly (Dupáningán Agtâ [=Eastern Cagayan Agtâ], *var*. lolló)
 
-lemlem: butterfly (Agtâ Ilabin [=Central Cagayan Agtâ, Yaga<sub>area</sub>]) 
+lemlem: butterfly (Agtâ Ilabin [=Central Cagayan Agtâ, Yaga<sub>area</sub>], *var*. lomlom) 
 
 litambang: butterfly (Gáddang<sub>𝚐𝚍𝚐?</sub> [Paracelis<sub>area</sub>]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
-lolló: butterfly (Dupáningán Agtâ [=Eastern Cagayan Agtâ])
+lolló: butterfly (Dupáningán Agtâ [=Eastern Cagayan Agtâ], *var*. lélle)
 
-lomlom: butterfly (Agtâ Ilabin [=Central Cagayan Agtâ]) 
+lomlom: butterfly (Agtâ Ilabin [=Central Cagayan Agtâ], *var*. lemlem) 
 
 malawák: butterfly (Southern Álta [=Kabulowán], *syn*. búwabúwa)
 
@@ -303,7 +303,7 @@ u’uluppoy: butterfly (Bátad Ifugáo [dial. Ducligan Ifugáo]; PSCC ***ku(m)pa
 
 #### Moths
 
-anunúgba: a species of small, white-winged moth (Hiligáynon; from **súgba**<sub>𝚑𝚒𝚕</sub> *‘to throw into the fire, roast’)
+anunúgba: a species of small, white-winged moth (Hiligáynon; from **súgba**<sub>𝚑𝚒𝚕</sub> *‘to throw into the fire, roast’*)
 
 anunúgba: moth (Cebuano, Kinaráy-a; from **súgba**<sub>𝚌𝚎𝚋,𝚔𝚛𝚓</sub> *‘to throw into the fire, roast’*)
 
@@ -331,7 +331,7 @@ húkhuk: moth (Mag-ántsi Áyta)
 
 imemadung: a kind of small moth (Saranggáni Manóbo) 
 
-itiit: clothes moths and moths whose larvae can destroy fabric and other materials, cf. <sub>fam</sub>Tineidae Latreille, 1810 (Central Bíkol)
+itiit: clothes moths and moths whose larvae can destroy fabric and other materials, <sub>fam</sub>Tineidae Latreille, 1810 (Central Bíkol)
 
 kagkanog: (Inabaknón)
 
@@ -361,15 +361,15 @@ lengkagew: giant silk moths and royal moths, cf. <sub>fam</sub>Saturniidae: *Att
 
 maripósa<sub>2</sub>: any medium to large-sized moth <sub>*colloquial, nonstandard?*</sub> (Filipíno<sub>𝚖𝚞𝚕</sub>; borrowed from Spanish **mariposa** *‘butterfly’*)
 
-mariposa de denoche: moth (Chavacano; from **mariposa**<sub>𝚜𝚙𝚊</sub> *‘butterfly,’ **de**<sub>𝚜𝚙𝚊</sub> *‘of, from,’* and **denoche** *‘evening, night’*<sub>𝚌𝚋𝚔</sub>)
-
 maripósa<sub>3</sub>: 1. giant silk moths, royal moths, cf. <sub>fam</sub>Saturniidae Boisduval, 1837; 2. swallowtail moths, cf. <sub>fam</sub>Uraniidae Blanchard, 1845 (Tagálog; borrowed from Spanish **mariposa** *‘butterfly’*) 
+
+mariposa de denoche: moth (Chavacano; from **mariposa**<sub>𝚜𝚙𝚊</sub> *‘butterfly,’ **de**<sub>𝚜𝚙𝚊</sub> *‘of, from,’* and **denoche**<sub>𝚌𝚋𝚔</sub> *‘evening, night’*)
 
 maróng-paróng: moth (Lineyte-Samarnón)
 
 sampelot: giant silk moths and royal moths, cf. <sub>fam</sub>Saturniidae: *Attacus caesar* Maassen, 1873 (Southern Sama [dial. Sibutu’], *var*. samperot)
 
-samperot: giant silk moths and royal moths, cf. <sub>fam</sub>Saturniidae: *Attacus caesar* Maassen, 1873 (Southern Sama [dial. Sibutu’]; *var*. sampelot)
+samperot: giant silk moths and royal moths, cf. <sub>fam</sub>Saturniidae: *Attacus caesar* Maassen, 1873 (Southern Sama [dial. Sibutu’], *var*. sampelot)
 
 séf: a moth species (T’bolí)
 
@@ -383,7 +383,7 @@ tandô-tándò<sub>1</sub>: bagworms or bagmoths, especially the worm-like, wing
 
 tángkəb: giant silk moths and royal moths, cf. <sub>fam</sub>Saturniidae: *Attacus lorquinii* C. & R. Felder, 1861 (Kinaráy-a) 
 
-tә́yəb<sup>†</sup>: moth (Kinaráy-a; from **tә́yəb"**<sub>𝚔𝚛𝚓</sub> *‘to whirl around’)
+tә́yəb<sup>†</sup>: moth (Kinaráy-a; from **tә́yəb**<sub>𝚔𝚛𝚓</sub> *‘to whirl around’)
 
 sipít: clothes moths and moths whose larvae can destroy fabric and other materials, <sub>fam</sub>Tineidae Latreille, 1810 (Hiligáynon)
 
@@ -415,11 +415,11 @@ atatádo: a sphinx moth caterpillar, <sub>fam</sub>Sphingidae Latreille, 1802; i
 
 atatadu: a kind of caterpillar (Tanudan Kalíngga [dial. Minangali]; PWMP ***tatadu** *‘large stinging green caterpillar’*)
 
-atatálo: 1. a sphinx moth caterpillar, <sub>fam</sub>Sphingidae Latreille, 1802, 2. a silkworm, Bombycidae (Hiligáynon; PWMP ***tatadu** *‘large stinging green caterpillar’*)
+atatálo: 1. a sphinx moth caterpillar, <sub>fam</sub>Sphingidae Latreille, 1802; 2. a silkworm, Bombycidae (Hiligáynon; PWMP ***tatadu** *‘large stinging green caterpillar’*)
 
 atatalú: 1. a sphinx moth caterpillar, <sub>fam</sub>Sphingidae Latreille, 1802; it is a serious pest of taro, *Colocasia esculenta* (L.) Schott, and other aroids <sub>fam</sub>Araceae; 2. last instar larva of swallowtail butterflies that typically feed upon ornamental and agriculturally important *Citrus* spp. <sub>fam</sub>Rutaceae, cf. *Papilio* spp. <sub>fam</sub>Papilionidae: <sub>subfam</sub>Papilioninae (Cebuano; PWMP ***tatadu** *‘large stinging green caterpillar’*)
 
-atataró: a sphinx moth caterpillar, <sub>fam</sub>Sphingidae Latreille, 1802 (Pandán Bíkol [==Northern Catanduanes Bíkol], Central Bíkol; PWMP ***tatadu** *‘large stinging green caterpillar’*)
+atataró: a sphinx moth caterpillar, <sub>fam</sub>Sphingidae Latreille, 1802 (Pandán Bíkol [=Northern Catanduanes Bíkol], Central Bíkol; PWMP ***tatadu** *‘large stinging green caterpillar’*)
 
 attaddu: caterpillar (Keley-i; PWMP ***tatadu** *‘large stinging green caterpillar’*, *var*. attadu)
 
@@ -427,7 +427,7 @@ attadu: caterpillar (Keley-i; PWMP ***tatadu** *‘large stinging green caterpil
 
 apdyi: a yellow-orange, hairy caterpillar (Ibatán [Babuyan])
 
-arábas: armyworm; a caterpillar that can damage and destroy a wide variety of crops, cf. Noctuidae Latreille, 1809: *Mythimna* spp. Ochsenheimer, 1816 and *Spodoptera* Guenée, 1852 (Ilóko)
+arábas: armyworm; a caterpillar that can damage and destroy a wide variety of crops, cf. <sub>fam</sub>Noctuidae Latreille, 1809: <sub>gen</sub>*Mythimna* spp. Ochsenheimer, 1816 and <sub>gen</sub>*Spodoptera* Guenée, 1852 (Ilóko)
 
 babangngo: a kind of red caterpillar that causes itching of the skin (Tuwalí Ifugáo)
 
@@ -455,9 +455,9 @@ bigi: caterpillar (Tuwalí Ifugáo)
 
 bitî-bítì: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845 (Kinaráy-a {The locals believe that any large cattle, such as a *karabáw* ‘carabao’ or *kánding* ‘goat,’ that accidentally consumes this caterpillar will pass away after a short while}; from **bítì**<sub>𝚔𝚛𝚓</sub> *‘to feel a burning pain’*, *syn*. tigî-tígì)
 
-budobudo: a hairy caterpillar (Ilóko; from **búdo**<sub>𝚒𝚕𝚘</sub> *‘hair of insects; itch’*) 
+budobudo: a hairy caterpillar (Ilóko; from **búdo**<sub>𝚒𝚕𝚘</sub> *‘hair of insects; itch’*, *var*. budobudoán) 
 
-budobudoán: a hairy caterpillar (Ilóko; from **búdo**<sub>𝚒𝚕𝚘</sub> *‘hair of insects; itch’*) 
+budobudoán: a hairy caterpillar (Ilóko; from **búdo**<sub>𝚒𝚕𝚘</sub> *‘hair of insects; itch’*, *var*. budobudo) 
 
 bulayung: a kind of caterpillar (Tanudan Kalíngga [dial. Minangali])
 
@@ -470,7 +470,7 @@ dalimásò: a caterpillar that contains quill-like hairs that are connected to p
 dalímasù: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845 (Cebuano; from **pásò**<sub>𝚌𝚎𝚋</sub> *‘to scorch; pain that feels hot as if it were on fire’*) 
 
 dalipog: a caterpillar that is very injurious to corn *Zea mays* L. <sub>fam</sub>Poaceae, cf. Crambidae Latreille, 1810: *Ostrinia* spp. Hübner, 1825 (Ilóko)
- 
+
 dangandangan: a kind of green larva destructive to beans, cf. Noctuidae Latreille, 1809: *Chrysodeixis* Hübner, 1821 (Ilóko; from **dángan**<sub>𝚒𝚕𝚘</sub> *‘handspan’*)
 
 dangáw-dangáw: an inch worm or twig worm;  caterpillars that mimic the petiole and other plant parts, <sub>fam</sub>Geometridae Leach, 1815 (Kinaráy-a; from **dángaw**<sub>𝚔𝚛𝚓</sub> *‘the span of the hand between the tip of the thumb and the tip of the middle finger’*)
@@ -479,7 +479,7 @@ dangaw-rangaw: caterpillar (Bahása Sūg)
 
 dapák: any hairy caterpillar, larger than *aláw* (Kinaráy-a)
 
-dmulu: black caterpillar with orange tubercles all over the body, cf. <sub>fam</sub>Nymphalinae: <sub>subfam</sub>Junoniini Reuter, 1896 (T’bolí) 
+dmulu: a black caterpillar with orange tubercles all over the body, cf. <sub>fam</sub>Nymphalinae: <sub>subfam</sub>Junoniini Reuter, 1896 (T’bolí) 
 
 dulmigas: a hairy caterpillar (Tanudan Kalíngga [dial. Minangali])
 
@@ -499,7 +499,7 @@ hantatawo: a sphinx moth caterpillar, <sub>fam</sub>Sphingidae Latreille, 1802 (
 
 hantatayu: a small, green caterpillar (Agúsan Manóbo; PWMP ***hantatadu** *‘large stinging green caterpillar’*)
 
-harábas: armyworm; a caterpillar that can damage and destroy a wide variety of crops, cf. Noctuidae Latreille, 1809: *Mythimna* spp. Ochsenheimer, 1816 and *Spodoptera* Guenée, 1852 (Tagálog; from **harábas**<sub>𝚝𝚐𝚕</sub> *‘run ragged; abused; reckless’*)
+harábas: armyworm; a caterpillar that can damage and destroy a wide variety of crops, cf. <sub>fam</sub>Noctuidae Latreille, 1809: <sub>gen</sub>*Mythimna* spp. Ochsenheimer, 1816 and <sub>gen</sub>*Spodoptera* Guenée, 1852 (Tagálog; from **harábas**<sub>𝚝𝚐𝚕</sub> *‘run ragged; abused; reckless’*)
 
 hígad: a hairy caterpillar that causes painful sensations that include pain, rash, burning, itching, swelling, and blistering when touched (Tagálog)
 
@@ -507,11 +507,11 @@ hínlaláyon: caterpillar that contains quill-like hairs that are connected to p
 
 hulni: a kind of hairy caterpillar that causes an itch, pain, or rash (Tuwalí Ifugáo)
 
-iggә́s: a hairy caterpillar (Ilóko)
+iggés: a hairy caterpillar (Ilóko [pronounced as /igˈgɯs/ in dial. Abagátan and /ig'gɛs/ in dial. Amiánan])
 
-iggəs-séda: silkworm (Ilóko; from **iggә́s**<sub>𝚒𝚕𝚘</sub> *‘worm’* and **seda**<sub>𝚜𝚙𝚊</sub> *‘silk’*)
+iggés-séda: silkworm (Ilóko; from **iggés**<sub>𝚒𝚕𝚘</sub> *‘worm’* and **seda**<sub>𝚜𝚙𝚊</sub> *‘silk’*)
 
-iggә́s ti bunúbon: a small, green caterpillar found on rice plants *Oryza spp*. L., <sub>fam</sub>Poaceae (Ilóko; from **iggəs**<sub>𝚒𝚕𝚘</sub> *‘caterpillar’* and **bunúbon**<sub>𝚒𝚕𝚘</sub> *‘seedling’*)
+iggés ti bunúbon: a small, green caterpillar found on rice plants *Oryza* spp. L., <sub>fam</sub>Poaceae (Ilóko; from **iggés**<sub>𝚒𝚕𝚘</sub> *‘caterpillar’* and **bunúbon**<sub>𝚒𝚕𝚘</sub> *‘seedling’*)
 
 intetalo: a large caterpillar that prefers grass (Saranggáni Manóbo; PWMP ***tatadu** *‘large stinging green caterpillar’*)
    
@@ -521,7 +521,7 @@ káfang: a small, green caterpillar (Central Finontók [dial. Khinina-ang])
 
 kalindoronot: caterpillar (Sambál)
 
-kamandag: a small, black caterpillar found on rice plants *Oryza spp*. L. <sub>fam</sub>Poaceae (Agutaynén)
+kamandag: a small, black caterpillar found on rice plants *Oryza* spp. L. <sub>fam</sub>Poaceae (Agutaynén)
 
 kamkamil’at: a kind of caterpillar that causes an itch, pain, or rash (Tuwalí Ifugáo)
 
@@ -529,9 +529,9 @@ kefding: a tussock moth caterpillar, <sub>fam</sub>Erebidae: <sub>subfam</sub>Ly
 
 ketolu: a sphinx moth caterpillar, <sub>fam</sub>Sphingidae Latreille, 1802 (T’bolí; PMP ***katadu** *‘large stinging green caterpillar’*)
 
-khərgər: a small, green caterpillar found on rice plants *Oryza spp*. L., <sub>fam</sub>Poaceae (Central Finontók [Ma-init <sub>area</sub>])
+khərgә́r: a small, green caterpillar found on rice plants *Oryza* spp. L., <sub>fam</sub>Poaceae (Central Finontók [Ma-init <sub>area</sub>])
 
-khərkhər: a small, green caterpillar found on rice plants *Oryza spp*. L., <sub>fam</sub>Poaceae (Central Finontók [dial. Khinina-ang])
+khərkhә́r: a small, green caterpillar found on rice plants *Oryza* spp. L., <sub>fam</sub>Poaceae (Central Finontók [dial. Khinina-ang])
 
 kol kolon: a black-and-white hairy caterpillar (T'bolí)
 
@@ -555,19 +555,21 @@ lupák:  a hairy caterpillar (Hiligáynon)
 
 ɣupák: a caterpillar with spines that cause itching (Akɣánon)
 
-mambibilot: rice caseworm; a semiaquatic caterpillar that cuts the leaf tips of rice plants *Oryza spp*. L., <sub>fam</sub>Poaceae to make leaf cases, cf. Crambidae Latreille, 1810: Acentropinae Stephens, 1836 (Tagálog; from **bílot**<sub>𝚝𝚐𝚕</sub> *‘to wrap something round on itself; to roll’*)
+mambibílot: rice caseworm; a semiaquatic caterpillar that cuts the leaf tips of rice plants *Oryza* spp. L., <sub>fam</sub>Poaceae to make leaf cases, cf. <sub>fam</sub>Crambidae Latreille, 1810: <sub>subfam</sub>Acentropinae Stephens, 1836 (Tagálog; from **bílot**<sub>𝚝𝚐𝚕</sub> *‘to wrap something round on itself; to roll’*)
 
-maniniklóp: rice caseworm; a semiaquatic caterpillar that cuts the leaf tips of rice plants *Oryza spp*. L., <sub>fam</sub>Poaceae to make leaf cases, cf. Crambidae Latreille, 1810: Acentropinae Stephens, 1836 (Tagálog; from **tiklóp**<sub>𝚝𝚐𝚕</sub> *‘to fold; to close by folding’*)
+maniniklóp: rice caseworm; a semiaquatic caterpillar that cuts the leaf tips of rice plants *Oryza* spp. L., <sub>fam</sub>Poaceae to make leaf cases, cf. <sub>fam</sub>Crambidae Latreille, 1810: <sub>subfam</sub>Acentropinae Stephens, 1836 (Tagálog; from **tiklóp**<sub>𝚝𝚐𝚕</sub> *‘to fold; to close by folding’*)
 
 ochang: a large caterpillar with reddish hairs (Central Finontók [dial. Khinina-ang])
 
-ohed: caterpillar (Ibatán [Babuyan])
+ohed: caterpillar (Ibatán [Babuyan]; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
 
-olet: caterpillar (Yakán) 
+olet: caterpillar (Yakán; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
 
-olod: caterpillar (Mamanwá)
+olod: caterpillar (Mamanwá; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
 
-orod: caterpillar (Mansáka) 
+orod: caterpillar (Mansáka; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
+
+owel: caterpillar (Botolán; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
 
 píris: a small caterpillar that causes itching of the skin when touched (Kapampángan)
 
@@ -605,9 +607,9 @@ sura: caterpillar (Agtâ Ilabin [=Central Cagayan Agtâ])
 
 sərni: a caterpillar with tufts of sharp, stinging spines (Central Finontók [dial. Khinina-ang])
 
-tagústos: armyworm; a caterpillar that can damage and destroy a wide variety of crops, cf. Noctuidae Latreille, 1809: *Mythimna* spp. Ochsenheimer, 1816 and *Spodoptera* Guenée, 1852 (Kinaráy-a) 
+tagústos: armyworm; a caterpillar that can damage and destroy a wide variety of crops, cf. <sub>fam</sub>Noctuidae Latreille, 1809: <sub>gen</sub>*Mythimna* spp. Ochsenheimer, 1816 and <sub>gen</sub>*Spodoptera* Guenée, 1852 (Kinaráy-a) 
 
-tamások<sub>2</sub>: 1. any small caterpillar found on rice plants *Oryza spp*. L., <sub>fam</sub>Poaceae, cf. larvae of moths from <sub>fam</sub>Crambidae Latreille, 1810: <sub>gen</sub>*Chilo* spp. Zincken, 1817 of <sub>subfam</sub>Crambinae Latreille, 1810; <sub>gen</sub>*Scirpophaga* spp. Treitschke, 1832 of <sub>subfam</sub>Schoenobiinae Duponchel, 1846; 2. a small caterpillar that attacks the jackfruit *Artocarpus heterophyllus* Lam. <sub>fam</sub>Moraceae at different stages of fruit development, cf. <sub>fam</sub>Crambidae Latreille, 1810: <sub>gen</sub>*Glyphodes* spp. Guenée, 1854 (Kinaráy-a, Hiligáynon {The locals believe that this worm can cause a kind of contagious pus-filled skin infection called *tamások*})
+tamások<sub>2</sub>: 1. any small caterpillar found on rice plants *Oryza* spp. L., <sub>fam</sub>Poaceae, cf. larvae of moths from <sub>fam</sub>Crambidae Latreille, 1810: <sub>gen</sub>*Chilo* spp. Zincken, 1817 of <sub>subfam</sub>Crambinae Latreille, 1810; <sub>gen</sub>*Scirpophaga* spp. Treitschke, 1832 of <sub>subfam</sub>Schoenobiinae Duponchel, 1846; 2. a small caterpillar that attacks the jackfruit *Artocarpus heterophyllus* Lam. <sub>fam</sub>Moraceae at different stages of fruit development, cf. <sub>fam</sub>Crambidae Latreille, 1810: <sub>gen</sub>*Glyphodes* spp. Guenée, 1854 (Kinaráy-a, Hiligáynon {The locals believe that this worm can cause a kind of contagious pus-filled skin infection called *tamások*})
 
 tarutáru: 1. a sphinx moth caterpillar, <sub>fam</sub>Sphingidae Latreille, 1802; 2. a silkworm, <sub>fam</sub>Bombycidae; 3. last instar larva of swallowtail butterflies that typically feed upon ornamental and agriculturally important *Citrus* spp. <sub>fam</sub>Rutaceae, cf. *Papilio* spp. <sub>fam</sub>Papilionidae: <sub>subfam</sub>Papilioninae (Kinaráy-a; PWMP ***tatadu** *‘large stinging green caterpillar’*)
 
@@ -671,7 +673,7 @@ urər-pàri: a small, green caterpillar found on rice plants *Oryza spp*. L., <s
 
 úod: caterpillar (Tagálog; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
 
-uwot: caterpillar (Pullun Mapún; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’)
+uwot: caterpillar (Pullun Mapún; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
 
 'ūyud: caterpillar (Iní [=Romblománon]; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
 
@@ -705,8 +707,8 @@ Proto-South-Mindanaon ***kalbangi** *‘butterfly’* (Zorc)
 
 Proto-Danao ***paruparu** *‘butterfly’* (Allison, 1979)
 
-Proto-Western-Malayo-Polynesian *qantatadu ‘large stinging green caterpillar’ and its variants *tatadu and *hantatadu, as well as its descendant Proto-Malayo-Polynesian *katadu (Blust & Trussel, 2020)
+Proto-Western-Malayo-Polynesian ***qantatadu** *‘large stinging green caterpillar’* and its variants ***tatadu** and ***hantatadu**, as well as its descendant Proto-Malayo-Polynesian ***katadu** (Blust & Trussel, 2020)
 
-Proto-Malayo-Polynesian *qulej ‘maggot, caterpillar, larva of a metamorphosing insect’ (Blust & Trussel, 2020)
+Proto-Malayo-Polynesian ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’* (Blust & Trussel, 2020)
 
 ### Discussion

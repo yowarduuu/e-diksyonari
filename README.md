@@ -99,7 +99,7 @@
 
 [Central Sama [𝚜𝚖𝚕]](https://iso639-3.sil.org/code/sml)
 
-[Central Sinubánən (Sindangan) [𝚜𝚢𝚋]](https://iso639-3.sil.org/code/syb)
+[Central Sinubánen (Sindangan) [𝚜𝚢𝚋]](https://iso639-3.sil.org/code/syb)
 
 [Central Tagbanwá [𝚝𝚐𝚝]](https://iso639-3.sil.org/code/tgt)
 
@@ -123,7 +123,7 @@
 
 [Eastern Finontók [𝚎𝚋𝚔]](https://iso639-3.sil.org/code/ebk)
 
-[Eastern Sinubánən (Guinselugnen) [𝚜𝚏𝚎]](https://iso639-3.sil.org/code/sfe)
+[Eastern Sinubánen (Guinselugnen) [𝚜𝚏𝚎]](https://iso639-3.sil.org/code/sfe)
 
 [Eastern Tawbuwíd Mangyán (Bangon) [𝚋𝚗𝚓]](https://iso639-3.sil.org/code/bnj)
 
@@ -221,7 +221,7 @@ Itbayat (Ichbayaten) [–]
 
 [Kinaráy-a [𝚔𝚛𝚓]](https://iso639-3.sil.org/code/krj)
 
-[Kolibúgan Sinubánən [𝚜𝚔𝚗]](https://iso639-3.sil.org/code/skn)
+[Kolibúgan Sinubánon [𝚜𝚔𝚗]](https://iso639-3.sil.org/code/skn)
 
 [Libon Bíkol [𝚕𝚋𝚕]](https://iso639-3.sil.org/code/lbl)
 
@@ -283,7 +283,7 @@ Nagtipunan Agtâ [𝚖𝚒𝚜]
 
 [Northern Kankanáəy [𝚡𝚗𝚗]](https://iso639-3.sil.org/code/xnn)
 
-[Northern Sinubánən (Tuboy)  [𝚜𝚝𝚋]](https://iso639-3.sil.org/code/stb)
+[Northern Sinubánen (Tuboy)  [𝚜𝚝𝚋]](https://iso639-3.sil.org/code/stb)
 
 [Northern Sorsogón [𝚋𝚔𝚜]](https://iso639-3.sil.org/code/bks)
 
@@ -313,7 +313,7 @@ Nagtipunan Agtâ [𝚖𝚒𝚜]
 
 [Riŋkonāda Bíkol [𝚋𝚝𝚘]](https://iso639-3.sil.org/code/bto)
 
-Salug-Godod Sinubánən [–]
+Salug-Godod Sinubánen [–]
 
 [Sambál [𝚡𝚜𝚋]](https://iso639-3.sil.org/code/xsb)
 
@@ -331,7 +331,7 @@ Salug-Godod Sinubánən [–]
 
 [Southern Sama [𝚜𝚜𝚋]](https://iso639-3.sil.org/code/ssb)
 
-[Southern Sinubánən (Lapuyan) [𝚕𝚊𝚊]](https://iso639-3.sil.org/code/laa)
+[Southern Sinubánen (Lapuyan) [𝚕𝚊𝚊]](https://iso639-3.sil.org/code/laa)
 
 [Southern Sorsogón [𝚜𝚛𝚟]](https://iso639-3.sil.org/code/srv)
 
@@ -357,11 +357,11 @@ Taaw’t Bato [𝚖𝚒𝚜]
 
 [Tanudan Kalíngga [𝚔𝚖𝚕]](https://iso639-3.sil.org/code/kml)
 
-Tawlet-Kalibugan Sinubánən [–]
+Tawlet-Kalibugan Sinubánen [–]
 
 Tayábas Áyta<sup>†?</sup> [𝚊𝚢𝚢] (Spurious according to *Glottolog*; extinct, if it ever existed)
 
-[Təduráy [𝚝𝚒𝚢]](https://iso639-3.sil.org/code/tiy)
+[Teduráy [𝚝𝚒𝚢]](https://iso639-3.sil.org/code/tiy)
 
 [T’bolí [𝚝𝚋𝚕]](https://iso639-3.sil.org/code/tbl)
 
@@ -375,7 +375,7 @@ Tayábas Áyta<sup>†?</sup> [𝚊𝚢𝚢] (Spurious according to *Glottolog*;
 
 [Western Bukidnon Manóbo [𝚖𝚋𝚋]](https://iso639-3.sil.org/code/mbb)
 
-[Western Sinubánən (Siocon) [𝚜𝚞𝚌]](https://iso639-3.sil.org/code/suc)
+[Western Sinubánon (Siocon) [𝚜𝚞𝚌]](https://iso639-3.sil.org/code/suc)
 
 [Western Tawbuwíd Mangyán (Batangan) [𝚝𝚠𝚋]](https://iso639-3.sil.org/code/twb)
 

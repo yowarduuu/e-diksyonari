@@ -63,7 +63,7 @@ amimispis: a butterfly species (Ásì<sub>dialectal</sub>; from **píspis**<sub>
 
 apopô: butterfly (Pudtol Átta)
 
-apoːppòː: butterfly (Pamplona Átta [=Northern Cagayan Negrito])
+apoppò: butterfly (Pamplona Átta [=Northern Cagayan Negrito])
 
 aribangbáng: butterfly (Riŋconāda Bíkol [dial. Sinaranəw: Baao<sub>area</sub>]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
@@ -85,11 +85,11 @@ bilaw-bilaw: a butterfly species (Pullun Mapún)
 
 bilbil’o: butterfly (Kankanáəy [dial. Bakun-Kibungan], *var*. bibil’o)
 
-bilimbang: butterfly (Central Sinubánən [=Sindangan]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
+bilimbang: butterfly (Central Sinubánen [=Sindangan]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
 bingkulan: brush-footed butterflies, especially the admirals and relatives, cf. <sub>fam</sub>Nymphalidae: <sub>subfam</sub>Limenitidinae Behr, 1864 (Tuwalí Ifugáo)
 
-belembang: butterfly (Central Sinubánən [=Sindangan]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
+belembang: butterfly (Central Sinubánen [=Sindangan]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
 bobodo: butterfly (Ibalói)
 
@@ -131,8 +131,6 @@ kalbangi: butterfly (Bláan Saranggáni [=Tumanao]; PSM ***kalbangi** *‘butter
 
 kalbɔnge: butterfly (Bláan Koronadal [=Tagalagad]; PSM ***kalbangi** *‘butterfly’*)
 
-kaḷibámbang: butterfly (Sángil; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
-
 kalibangbang: butterfly (Aborlan Tagbanwá, Binúkid, Calamian Tagbanwá, Cotabato Manóbo [=Dulángan], Higaónon, Sambál, Tagakawló, Tagabawà Bagóbô; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
 kalibángbang: butterfly (Central Bíkol [dial. Tabaco–Legazpi–Sorsogon], Caluyánhən; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
@@ -147,6 +145,8 @@ kalivangbang: butterfly (Ilyánen Manóbo [=Arománən, dial. Livunganen]; PAn *
 
 kalivangvang: butterfly (Ilyánen Manóbo [=Arománən], Central Tagbanwá; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
+kal᷊ibámbang: butterfly (Sángil; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
+
 karibangbang: butterfly (Mansáka; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
 karibángbang: butterfly (Virác Bíkol [=Southern Catanduanes Bikol]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
@@ -159,7 +159,7 @@ kawkalibangbang<sub>*pl.*</sub>: butterfly (Sambál, singular: kalibángbang; PA
 
 kbangih: butterfly (T’bolí; PSM ***kalbangi** *‘butterfly’*)
 
-kelibangbang: butterfly (Təduráy, Saranggáni Manóbo; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
+kelibangbang: butterfly (Teduráy, Saranggáni Manóbo; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
 kelivangbang: butterfly (Western Bukidnon Manóbo; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
@@ -285,7 +285,7 @@ salibangbang: butterfly (Umíray Dumágat Agtâ; PAn ***baŋbaŋ₂** *‘butter
 
 salibengbeng: butterfly (Umíray Dumágat Agtâ; PAn ***baŋbaŋ₂** *‘butterfly, moth’*, *var*. salibangbang)
 
-suguy: any exceptionally large butterfly or moth (Central Sinubánən [=Sindangan]) 
+suguy: any exceptionally large butterfly or moth (Central Sinubánen [=Sindangan]) 
 
 talúbang: butterfly (Kapampángan [dial. Pampangga])
 
@@ -348,6 +348,8 @@ kiwâ-kiwâ<sup>†</sup>: giant silk moths and royal moths, cf. <sub>fam</sub>S
 kulagbáw: giant silk moths and royal moths, cf. <sub>fam</sub>Saturniidae: *Attacus lorquinii* C. & R. Felder, 1861 (Tagálog [dial. Vinzons])
 
 kuled lembenu: sphinx moths, cf. <sub>fam</sub>Sphingidae Latreille, 1802 (T'bolí)
+
+kulibbábbáng: moth (Pamplona Átta [=Northern Cagayan Negrito])
 
 kunya: moth (Pullun Mapún)
 
@@ -426,6 +428,8 @@ attaddu: caterpillar (Keley-i; PWMP ***tatadu** *‘large stinging green caterpi
 attadu: caterpillar (Keley-i; PWMP ***tatadu** *‘large stinging green caterpillar’*, *var*. attaddu)
 
 apdyi: a yellow-orange, hairy caterpillar (Ibatán [Babuyan])
+
+arábà: caterpillar (Pamplona Átta [=Northern Cagayan Negrito])
 
 arábas: armyworm; a caterpillar that can damage and destroy a wide variety of crops, cf. <sub>fam</sub>Noctuidae Latreille, 1809: <sub>gen</sub>*Mythimna* spp. Ochsenheimer, 1816 and <sub>gen</sub>*Spodoptera* Guenée, 1852 (Ilóko)
 
@@ -601,7 +605,7 @@ seperid: caterpillar (Brooke’s Point Paláw-an)
 
 sopodding: a caterpillar armed with stinging, urticating hairs that causes an itch, pain, or rash; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845 (Óbo Monuvú<sub>?</sub>)
 
-supeding: a kind of caterpillar that causes an itch, pain, or rash (Central Sinubánən [=Sindangan]) 
+supeding: a kind of caterpillar that causes an itch, pain, or rash (Central Sinubánon [=Sindangan]) 
 
 sura: caterpillar (Agtâ Ilabin [=Central Cagayan Agtâ]) 
 
@@ -627,7 +631,7 @@ tíl’as: a hairy caterpillar (Hiligáynon)
 
 tir’as: a hairy caterpillar (Lineyte-Samarnón)
 
-tetalu: a sphinx moth caterpillar, <sub>fam</sub>Sphingidae Latreille, 1802 (Central Sinubánən [=Sindangan]; PWMP ***tatadu** *‘large stinging green caterpillar’*)
+tetalu: a sphinx moth caterpillar, <sub>fam</sub>Sphingidae Latreille, 1802 (Central Sinubánen [=Sindangan]; PWMP ***tatadu** *‘large stinging green caterpillar’*)
 
 tetaru: caterpillar (Western Bukidnon Manóbo; PWMP ***tatadu** *‘large stinging green caterpillar’*)
 
@@ -651,7 +655,7 @@ ulat-sapling: a hairy caterpillar (Central Sama)
 
 ullat: caterpillar (Southern Sama [dial. Sibutu’]; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
 
-uled: caterpillar (Central Sinubánən; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
+uled: caterpillar (Central Sinubánen [=Sindangan]; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
 
 úlod: caterpillar (Masbateño; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
 
@@ -663,9 +667,9 @@ ulud: caterpillar (Aborlan Tagbanwá; PMP ***qulej** *‘maggot, caterpillar, la
 
 uləg: caterpillar (Árta; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
 
-urád: caterpillar (Dupáningán Agtâ [=Eastern Cagayan Agtâ])
+urád: caterpillar (Dupáningán Agtâ [=Eastern Cagayan Agtâ]; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
 
-urod: caterpillar (Pandán Bíkol)
+urod: caterpillar (Pandán Bíkol [=Northern Catanduanes Bíkol]; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
 
 úrər: caterpillar (Bolináo; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
 

@@ -12,7 +12,7 @@ Further, the dictionary lists forms that are phonological variants or synonymous
 
 A lengthened vowel is written with a macron ⟨**◌̄**⟩ only if it is part of the language’s standard orthography. Otherwise, the triangular colon ⟨**◌ː**⟩ (not a colon, but two triangles facing each other in an hourglass shape) is used to assist in revealing vowel length. The glottal stop is transcribed with the apostrophe ⟨**ʼ**⟩. The hyphen ⟨**-**⟩ stands only for a compound word or a reduplicative.
 
-Additionally, accents are employed in the following cases: a circumflex accent ⟨**◌̂**⟩ signifies that both a stress and a glottal stop occur in the final vowel, or a glottal stop is present in the middle of a word; a grave accent ⟨**◌̀**⟩ denotes that the glottal stop occurs at the final vowel but the stress occurs at the penultimate syllable; and lastly, an acute accent ⟨**◌́**⟩ highlights a stress on any of the syllables.
+Additionally, accents are employed in the following cases: a circumflex accent ⟨**◌̂**⟩ signifies that both a stress and a glottal stop occur in the final vowel, or a glottal stop is present in the middle of a word; a grave accent ⟨**◌̀**⟩ denotes that the glottal stop occurs at the final vowel but the stress occurs at the penultimate syllable; and lastly, an acute accent ⟨**◌́**⟩ highlights a stress on any of the syllables. Additional acute accents in a word indicate that vowel lengthening accompanies primary or secondary stress. A glottal stop is unrepresented if it occurs at the beginning of a word.
 
 The entries are presented alphabetically. The arrangement of several entries, however, demands some clarity. The order is as follows:
 
@@ -349,7 +349,7 @@ kulagbáw: giant silk moths and royal moths, cf. <sub>fam</sub>Saturniidae: *Att
 
 kuled lembenu: sphinx moths, cf. <sub>fam</sub>Sphingidae Latreille, 1802 (T'bolí)
 
-kulibbábbáng: moth (Pamplona Átta [=Northern Cagayan Negrito])
+kulibbábbáng: moth (Pamplona Átta [=Northern Cagayan Negrito]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
 kunya: moth (Pullun Mapún)
 
@@ -457,7 +457,7 @@ batbat’ol: a sphinx moth caterpillar, <sub>fam</sub>Sphingidae Latreille, 1802
 
 bigi: caterpillar (Tuwalí Ifugáo)
 
-bitî-bítì: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845 (Kinaráy-a {The locals believe that any large cattle, such as a *karabáw* ‘carabao’ or *kánding* ‘goat,’ that accidentally consumes this caterpillar will pass away after a short while}; from **bítì**<sub>𝚔𝚛𝚓</sub> *‘to feel a burning pain’*, *syn*. tigî-tígì)
+bitî-bítì: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845: <sub>gen</sub>*Thosea* spp. Walker, 1855 (Kinaráy-a {The locals believe that any large cattle, such as a *karabáw* ‘carabao’ or *kánding* ‘goat,’ that accidentally consumes this caterpillar will pass away after a short while}; from **bítì**<sub>𝚔𝚛𝚓</sub> *‘to feel a burning pain’*, *syn*. tigî-tígì)
 
 budobudo: a hairy caterpillar (Ilóko; from **búdo**<sub>𝚒𝚕𝚘</sub> *‘hair of insects; itch’*, *var*. budobudoán) 
 
@@ -469,9 +469,9 @@ but’ngngel: caterpillar (Central Sama)
 
 citicuero: a hairy caterpillar (Chavacano)
 
-dalimásò: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845 (Mindoro<sub>𝚞𝚗𝚍</sub>; from **pásò** *‘to scorch; pain that feels hot as if it were on fire’*)
+dalimásò: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845: <sub>gen</sub>*Thosea* spp. Walker, 1855 (Mindoro<sub>𝚞𝚗𝚍</sub>; from **pásò** *‘to scorch; pain that feels hot as if it were on fire’*)
 
-dalímasù: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845 (Cebuano; from **pásò**<sub>𝚌𝚎𝚋</sub> *‘to scorch; pain that feels hot as if it were on fire’*) 
+dalímasù: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845: <sub>gen</sub>*Thosea* spp. Walker, 1855 (Cebuano; from **pásò**<sub>𝚌𝚎𝚋</sub> *‘to scorch; pain that feels hot as if it were on fire’*) 
 
 dalipog: a caterpillar that is very injurious to corn *Zea mays* L. <sub>fam</sub>Poaceae, cf. Crambidae Latreille, 1810: *Ostrinia* spp. Hübner, 1825 (Ilóko)
 
@@ -507,7 +507,7 @@ harábas: armyworm; a caterpillar that can damage and destroy a wide variety of 
 
 hígad: a hairy caterpillar that causes painful sensations that include pain, rash, burning, itching, swelling, and blistering when touched (Tagálog)
 
-hínlaláyon: caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845 (Tagálog [dial. Batangueño, Teresian-Morong])
+hínlaláyon: caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845: <sub>gen</sub>*Thosea* spp. Walker, 1855 (Tagálog [dial. Batangueño, Teresian-Morong])
 
 hulni: a kind of hairy caterpillar that causes an itch, pain, or rash (Tuwalí Ifugáo)
 
@@ -528,6 +528,8 @@ kalindoronot: caterpillar (Sambál)
 kamandag: a small, black caterpillar found on rice plants *Oryza* spp. L. <sub>fam</sub>Poaceae (Agutaynén)
 
 kamkamil’at: a kind of caterpillar that causes an itch, pain, or rash (Tuwalí Ifugáo)
+
+kataru: caterpillar (Tagabawà Bagóbô; PMP ***katadu** *‘large stinging green caterpillar’*)
 
 kefding: a tussock moth caterpillar, <sub>fam</sub>Erebidae: <sub>subfam</sub>Lymantriinae Hampson, 1893 (T’bolí)
 
@@ -579,13 +581,19 @@ píris: a small caterpillar that causes itching of the skin when touched (Kapamp
 
 rangaw: an inchworm or twig worm, <sub>fam</sub>Geometridae Leach, 1815 (Məranáw)
 
+rara: a kind of hairy caterpillar that causes an itch, pain, or rash (Tagabawà Bagóbô)
+
 sabur: a hairy caterpillar (Árta)
 
 sampiring: a hairy caterpillar that causes painful sensations that include pain, rash, burning, itching, swelling, and blistering when touched (Cebuano)
 
 samrid: a black, hairy stinging caterpillar (Ibatán [Babuyan])
 
+sapádding: a hairy caterpillar that causes painful sensations that include pain, rash, burning, itching, swelling, and blistering when touched; it is commonly found in monkeypod trees <sub>fam</sub>Fabaceae: <sub>subfam</sub>Caesalpinioideae, cf. <sub>fam</sub>Limacodidae Duponchel, 1845: <sub>gen</sub>*Thosea* spp. Walker, 1855 (Tagabawà Bagóbô, *var*. sappádding)
+
 sapiring: a hairy caterpillar that causes painful sensations that include pain, rash, burning, itching, swelling, and blistering when touched (Cebuano)
+
+sappádding: a hairy caterpillar that causes painful sensations that include pain, rash, burning, itching, swelling, and blistering when touched, <sub>fam</sub>Limacodidae Duponchel, 1845: <sub>gen</sub>*Thosea* spp. Walker, 1855 (Tagabawà Bagóbô {The locals believe that animals, such as a babuy ‘pig’ or kambing ‘goat,’ that accidentally consumes this caterpillar will pass away after a short while}, *var*. sapádding)
 
 sarára: a small, brown, hairy caterpillar (Ilóko)
 
@@ -619,11 +627,11 @@ tarutáru: 1. a sphinx moth caterpillar, <sub>fam</sub>Sphingidae Latreille, 180
 
 tataro: caterpillar (Məranáw; PWMP ***tatadu** *‘large stinging green caterpillar’*)
 
-tigi: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845 (Akɣánon {The locals believe that any large cattle, such as an *ánwang* ‘carabao’ or *kánding* ‘goat,’ that accidentally consumes this caterpillar will pass away after a short while})
+tigi: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845: <sub>gen</sub>*Thosea* spp. Walker, 1855 (Akɣánon {The locals believe that any large cattle, such as an *ánwang* ‘carabao’ or *kánding* ‘goat,’ that accidentally consumes this caterpillar will pass away after a short while})
 
-tigî-tígì: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845 (Kinaráy-a {The locals believe that any large cattle, such as a *karabáw* ‘carabao’ or *kánding* ‘goat,’ that accidentally consumes this caterpillar will pass away after a short while}; from **tígì**<sub>𝚔𝚛𝚓</sub> *‘to expose to the sun or heat’*, *syn*. bitî-bítì)
+tigî-tígì: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845: <sub>gen</sub>*Thosea* spp. Walker, 1855 (Kinaráy-a {The locals believe that any large cattle, such as a *karabáw* ‘carabao’ or *kánding* ‘goat,’ that accidentally consumes this caterpillar will pass away after a short while}; from **tígì**<sub>𝚔𝚛𝚓</sub> *‘to expose to the sun or heat’*, *syn*. bitî-bítì)
 
-tipgi: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845 (Akɣánon [Buruanga<sub>area</sub>])
+tipgi: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845: <sub>gen</sub>*Thosea* spp. Walker, 1855 (Akɣánon [Buruanga<sub>area</sub>])
 
 tílas: a hairy caterpillar (Tagálog)
 
@@ -715,4 +723,8 @@ Proto-Western-Malayo-Polynesian ***qantatadu** *‘large stinging green caterpil
 
 Proto-Malayo-Polynesian ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’* (Blust & Trussel, 2020)
 
-### Discussion
+### Discussions
+
+### #Help: How to contribute
+
+If you know a word that is used to define the adult and immature stages of moths and butterflies and it does not exist in this dictionary, [please add it](https://github.com/yowarduuu/e-diksyonari/blob/requests/Help:%20How%20to%20contribute). It's perfectly fine if you have no knowledge of etymology, species identification, or anything else; your humblest contribution is welcome. Any blanks can be filled in by someone else afterwards. The word's language, forms, and meaning are the absolute minimum that you must provide.

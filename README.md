@@ -385,7 +385,7 @@ tandô-tándò<sub>1</sub>: bagworms or bagmoths, especially the worm-like, wing
 
 tángkəb: giant silk moths and royal moths, cf. <sub>fam</sub>Saturniidae: *Attacus lorquinii* C. & R. Felder, 1861 (Kinaráy-a) 
 
-tә́yəb<sup>†</sup>: moth (Kinaráy-a; from **tә́yəb**<sub>𝚔𝚛𝚓</sub> *‘to whirl around’)
+tә́yəb<sup>†</sup>: moth (Kinaráy-a; from **tә́yəb**<sub>𝚔𝚛𝚓</sub> *‘to whirl around’*)
 
 sipít: clothes moths and moths whose larvae can destroy fabric and other materials, <sub>fam</sub>Tineidae Latreille, 1810 (Hiligáynon)
 

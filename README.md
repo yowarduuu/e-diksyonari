@@ -727,4 +727,4 @@ Proto-Malayo-Polynesian ***qulej** *‘maggot, caterpillar, larva of a metamorph
 
 ### #Help: How to contribute
 
-If you know a word that is used to define the adult and immature stages of moths and butterflies and it does not exist in this dictionary, [please add it](https://github.com/yowarduuu/e-diksyonari/blob/requests/Help:%20How%20to%20contribute). It's perfectly fine if you have no knowledge of etymology, species identification, or anything else; your humblest contribution is welcome. Any blanks can be filled in by someone else afterwards. The word's language, forms, and meaning are the absolute minimum that you must provide.
+If you know a word that is used to define the adult and immature stages of moths and butterflies and it does not exist in this dictionary, [please add it](https://github.com/yowarduuu/e-diksyonari/wiki/Help). It's perfectly fine if you have no knowledge of etymology, species identification, or anything else; your humblest contribution is welcome. Any blanks can be filled in by someone else afterwards. The word's language, forms, and meaning are the absolute minimum that you must provide.

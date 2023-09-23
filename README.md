@@ -89,7 +89,7 @@ bilimbang: butterfly (Central Sinubánen [=Sindangan]; PAn ***baŋbaŋ₂** *‘
 
 bingkulan: brush-footed butterflies, especially the admirals and relatives, cf. <sub>fam</sub>Nymphalidae: <sub>subfam</sub>Limenitidinae Behr, 1864 (Tuwalí Ifugáo)
 
-belembang: butterfly (Central Sinubánen [=Sindangan]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
+belembang: butterfly (Central Sinubánen [=Sindangan]; PWMP	***belembaŋ** *‘butterfly, moth’*)
 
 bobodo: butterfly (Ibalói)
 
@@ -191,7 +191,7 @@ kopapey: butterfly (I-wak [Carranglan<sub>area</sub>]; PSCC ***ku(m)papɨ́y** *
 
 kopáp’əy: butterfly (Central Finontók [dial. Khinina-ang]; PSCC ***ku(m)papɨ́y** *‘butterfly’*)
 
-kudibábang: butterfly (Ivatán; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
+kudibábang: butterfly (Ivatán [dial. Ivasayen, Isamurongen]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
 kukulágbaw: butterfly (West Miraya Bíkol)
 
@@ -238,6 +238,8 @@ lolló: butterfly (Dupáningán Agtâ [=Eastern Cagayan Agtâ], *var*. lélle)
 lomlom: butterfly (Agtâ Ilabin [=Central Cagayan Agtâ], *var*. lemlem) 
 
 malawák: butterfly (Southern Álta [=Kabulowán], *syn*. búwabúwa)
+
+malibámban: butterfly (Yógad; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
 maripósa<sub>1</sub>: butterfly (Chavacano, Philippine Spanish; borrowed from Spanish **mariposa** *‘butterfly’*)
 
@@ -302,6 +304,8 @@ ul’lapoy: butterfly (Lubuágan Kalíngga [dial. Guininaáng]; PSCC ***ku(m)pap
 u’uluppoy: butterfly (Bátad Ifugáo [dial. Ducligan Ifugáo]; PSCC ***ku(m)papɨ́y** *‘butterfly’*)
 
 #### Moths
+
+alibámban: moth (Yógad; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
 anunúgba: a species of small, white-winged moth (Hiligáynon; from **súgba**<sub>𝚑𝚒𝚕</sub> *‘to throw into the fire, roast’*)
 
@@ -397,6 +401,8 @@ wés: a moth species (T’bolí)
 
 abfafáli: a kind of caterpillar that destroys different sweetpotato varieties, such as *fayyási*, *fináychan*, and *karfó-oy*, *Ipomoea batatas* (L.) Lam. <sub>fam</sub>Convolvulaceae (Central Finontók [dial. Khinina-ang])
 
+aggʌs (Itáwis [dial. Malawég])
+
 aksíp: a caterpillar that bores the stems of its host plants *Oryza spp*. L. and grasses <sub>fam</sub>Poaceae (Tagálog)
 
 alaláso: a hairy caterpillar that causes painful sensations that include pain, rash, burning, itching, swelling, and blistering when touched (Central Bíkol)
@@ -473,7 +479,7 @@ dalimásò: a caterpillar that contains quill-like hairs that are connected to p
 
 dalímasù: a caterpillar that contains quill-like hairs that are connected to poison sacs; cup moth or slug moth caterpillars, <sub>fam</sub>Limacodidae Duponchel, 1845: <sub>gen</sub>*Thosea* spp. Walker, 1855 (Cebuano; from **pásò**<sub>𝚌𝚎𝚋</sub> *‘to scorch; pain that feels hot as if it were on fire’*) 
 
-dalipog: a caterpillar that is very injurious to corn *Zea mays* L. <sub>fam</sub>Poaceae, cf. Crambidae Latreille, 1810: *Ostrinia* spp. Hübner, 1825 (Ilóko)
+dalipog: a caterpillar that is very injurious to corn *Zea mays* L. <sub>fam</sub>Poaceae, cf. *Crambidae* Latreille, 1810: *Ostrinia* spp. Hübner, 1825 (Ilóko)
 
 dangandangan: a kind of green larva destructive to beans, cf. Noctuidae Latreille, 1809: *Chrysodeixis* Hübner, 1821 (Ilóko; from **dángan**<sub>𝚒𝚕𝚘</sub> *‘handspan’*)
 
@@ -492,6 +498,10 @@ fab’arakánaw: a small, hairy caterpillar (Central Finontók [dial. Khinina-an
 fanfanyákhaw: any large, hairy caterpillar (Central Finontók [dial. Khinina-ang])
 
 gok: caterpillar (Umíray Dumágat Agtâ)
+
+gulɔd: caterpillar (Western Sinubánon [=Siocon]; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
+
+guled: caterpillar (Central Sinubánen [=Sindangan], Southern Sinubánen [=Lapuyan]; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
 
 gusáno: caterpillar (Chavacano, Philippine Spanish; from Spanish **gusano** *‘worm, insect larva’*)
 
@@ -520,6 +530,8 @@ iggés ti bunúbon: a small, green caterpillar found on rice plants *Oryza* spp.
 intetalo: a large caterpillar that prefers grass (Saranggáni Manóbo; PWMP ***tatadu** *‘large stinging green caterpillar’*)
    
 irás: a hairy caterpillar (Hiligáynon)
+
+kabbít: a hairy caterpillar (Yógad)
 
 káfang: a small, green caterpillar (Central Finontók [dial. Khinina-ang])
 
@@ -557,6 +569,8 @@ lala: a kind of hairy caterpillar that causes itching of the skin (Saranggáni M
 
 lara: a hairy caterpillar that causes painful sensations that include pain, rash, burning, itching, swelling, and blistering when touched (Mansáka {The locals believe that a chicken will become seriously ill if it consumes this poisonous caterpillar})
 
+luód: caterpillar (Kagayánən; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
+
 lupák:  a hairy caterpillar (Hiligáynon)
 
 ɣupák: a caterpillar with spines that cause itching (Akɣánon)
@@ -567,11 +581,15 @@ maniniklóp: rice caseworm; a semiaquatic caterpillar that cuts the leaf tips of
 
 ochang: a large caterpillar with reddish hairs (Central Finontók [dial. Khinina-ang])
 
-ohed: caterpillar (Ibatán [Babuyan]; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
+ohә́d: caterpillar (Ivatán [dial. Ivasayen, Isamurongen], Ibatán [=Babuyan]; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
 
 olet: caterpillar (Yakán; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
 
 olod: caterpillar (Mamanwá; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
+
+oɣә́d: caterpillar  (Itbayat [=Ichbayaten]; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
+
+oɣód: caterpillar (Boînən Bíkol; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
 
 orod: caterpillar (Mansáka; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
 
@@ -584,6 +602,8 @@ rangaw: an inchworm or twig worm, <sub>fam</sub>Geometridae Leach, 1815 (Məran�
 rara: a kind of hairy caterpillar that causes an itch, pain, or rash (Tagabawà Bagóbô)
 
 sabur: a hairy caterpillar (Árta)
+
+sambing: a hairy caterpillar that causes painful sensations that include pain, rash, burning, itching, swelling, and blistering when touched (Surigaonón)
 
 sampiring: a hairy caterpillar that causes painful sensations that include pain, rash, burning, itching, swelling, and blistering when touched (Cebuano)
 
@@ -673,7 +693,11 @@ ulot: caterpillar (Inabaknón; PMP ***qulej** *‘maggot, caterpillar, larva of 
 
 ulud: caterpillar (Aborlan Tagbanwá; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
 
+ulág: caterpillar (Yógad; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
+
 uləg: caterpillar (Árta; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*) 
+
+úɣod: caterpillar (Akɣánon; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
 
 urád: caterpillar (Dupáningán Agtâ [=Eastern Cagayan Agtâ]; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
 
@@ -711,7 +735,7 @@ tandô-tándò<sub>2</sub>: chrysalis (Kinaráy-a, Hiligáynon; from **tándò**
 
 #### Protowords
 
-Proto-Austronesian ***baŋbaŋ₂** *‘butterfly, moth’* (Blust & Trussel, 2020)
+Proto-Austronesian ***baŋbaŋ₂** *‘butterfly, moth’* and Proto-Western-Malayo-Polynesian	***belembaŋ** *‘butterfly’* (Blust & Trussel, 2020)
 
 Proto-South Central Cordilleran ***ku(m)papɨ́y** *‘butterfly’* (Himes, 1998)
 

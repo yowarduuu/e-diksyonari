@@ -237,7 +237,7 @@ Itbayat (Ichbayaten) [–]
 
 [Maeng Itneg [𝚒𝚝𝚝]](https://iso639-3.sil.org/code/itt)
 
-[Magbukón Áyta) [𝚊𝚢𝚝]](https://iso639-3.sil.org/code/ayt)
+[Magbukón Áyta [𝚊𝚢𝚝]](https://iso639-3.sil.org/code/ayt)
 
 [Magindanáwon [𝚖𝚍𝚑]](https://iso639-3.sil.org/code/mdh)
 

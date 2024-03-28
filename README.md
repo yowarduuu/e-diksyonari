@@ -387,9 +387,9 @@ tamások<sub>1</sub>: white stemborer moth (Kinaráy-a)
 
 tandô-tándò<sub>1</sub>: bagworms or bagmoths, especially the worm-like, wingless female adults, cf. <sub>fam</sub>Psychidae Boisduval, 1828 (Kinaráy-a {Bagworm cases are composed of silk and materials from their habitat. The children collect bagworms and open the front of the case, encouraging the larva to move its head out. The children would then ask questions, especially about lost items, as they believed that the worm would tell them the location of the object. The location is indicated by where the worm would point its head}; from **tándò**<sub>𝚔𝚛𝚓</sub> *‘to nod assent, to give approval’*) 
 
-tángkəb: giant silk moths and royal moths, cf. <sub>fam</sub>Saturniidae: *Attacus lorquinii* C. & R. Felder, 1861 (Kinaráy-a) 
+tángkɨb: giant silk moths and royal moths, cf. <sub>fam</sub>Saturniidae: *Attacus lorquinii* C. & R. Felder, 1861 (Kinaráy-a) 
 
-tә́yəb<sup>†</sup>: moth (Kinaráy-a; from **tә́yəb**<sub>𝚔𝚛𝚓</sub> *‘to whirl around’*)
+tɨyɨb<sup>†</sup>: moth (Kinaráy-a; from **tǘyüb**<sub>𝚔𝚛𝚓</sub> *‘to whirl around’*)
 
 sipít: clothes moths and moths whose larvae can destroy fabric and other materials, <sub>fam</sub>Tineidae Latreille, 1810 (Hiligáynon)
 
@@ -748,6 +748,9 @@ Proto-Western-Malayo-Polynesian ***qantatadu** *‘large stinging green caterpil
 Proto-Malayo-Polynesian ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’* (Blust & Trussel, 2020)
 
 ### Discussions
+
+
+
 
 ### #Help: How to contribute
 

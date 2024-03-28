@@ -749,7 +749,59 @@ Proto-Malayo-Polynesian ***qulej** *‘maggot, caterpillar, larva of a metamorph
 
 ### Discussions
 
+[1] **paru** ‘*butterfly*<sub>?</sub>’ 
 
+Originally, the Tagalog word “*parúparó*” is believed to be a contraction of Spanish *papalote* (‘kite’), from Classical Nahuatl *pāpalōtl* (‘butterfly’). However, the word appears to have a falsely assumed etymology. Thus, after some comparison, the author of this dictionary is suggesting a different origin.
+ 
+1) The word was reduplicated. The proto-phoneme *r became *l when it entered other languages. 
+ 
+Most of the terms for ‘butterfly’ are products of doubling morphemes to form new words, cf. *bila-bilá*, *kabàkabà*, *kupu-kupu* (in Malay), etc. The proto-phonemes *d and *r usually become *l when entering some languages in the Central Luzon group, e.g. PMP *duha ‘two’ > 𝚡𝚜𝚋 *lowa, PMP *diŋdiŋ₁ > 𝚊𝚢𝚝 *liŋliŋ, PPh *tarús ‘to understand, grasp something intellectually’ > 𝚜𝚐𝚋 *taloh. In Maguindanáwon, /ɾ/ and /l/ are interchangeable in words that include a written ⟨l⟩, depending on their dialect.
+ 
+⚬ PPh **paru** ‘*butterfly*<sub>?</sub>’ 
+
+▪ GCP *paruparu ‘butterfly’ 
+
+   ▫ CP *paruparu ‘butterfly’
+   
+     → *parúparó (Tagálog [Manileño])
+     
+   ▫ Danao *paruparu ‘butterfly’
+   
+     → *paroparo (Məranáw)
+     
+     → *paruparu (Magindanáwon)
+     
+        ↳ *palu-palu (Magindanáwon)
+        
+     → *paruparu (Iranun)
+     
+▪ CL *palopalo ‘butterfly’
+
+     → *palopalo (Áyta Mag-ántsi)
+     
+     → *palopalo (Áyta Magbukón)
+     
+     → *palo’palo’ (Botolán)
+     
+     → *palò (Áyta Ambalá)
+     
+     → *palu (Áyta Mag-indí)
+   
+Forms like paparo (in 𝚝𝚐𝚕) or papalo (in Áyta languages) might have existed as a product of deleting the second vowel or second syllable of a word, cf. PAn *baŋbaŋ₂ ‘butterfly, moth’ > Paláw-an Brooke’s Point *babang [*verification needed*]. 
+ 
+2) The prefix PAN *qali- was added to the root. This is similar to PWMP *qali-baŋbaŋ, from PAN *baŋbaŋ₂ 'butterfly, moth.' The prefix *qali- here marks that the animal has a sensitive relationship to the spirit world.
+ 
+𝚝𝚐𝚕 *aliparó is borrowed by Hátang Kayê (=Remontádo). When the word entered the language, it became 𝚊𝚐𝚟 *alipadu considering that the phoneme *r of the loanword naturally turns to *d when entering the language, e.g., 𝚜𝚙𝚊 *horas > 𝚊𝚐𝚟 *údas ‘hour,’ 𝚝𝚐𝚕 *bahagharì > 𝚊𝚐𝚟 *balaghádì ‘rainbow.’ 
+ 
+▪ *qali-paru ‘butterfly’ 
+
+    → *aliparó (Tagálog [Manileño])
+    
+        ↳ *alipadu (Hátang Kayê)   
+        
+    ↪ *alipuru (Capampángan [Bataaneño])
+ 
+The exact origin of Capampángan (Bataaneño) *alipuru is still dubious, but it is believed that it followed the suggested protoword. This might have been borrowed from Tagalog when the language migrated to the original Capampángan-speaking areas in east Bataan, and the word was borrowed due to intense contact with Tagalog speakers who settled in the province after moving from southern Luzon, which later displaced the language to the towns near Pampanga. 
 
 
 ### #Help: How to contribute

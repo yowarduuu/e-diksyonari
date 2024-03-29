@@ -271,6 +271,8 @@ paroparo: butterfly (Iránun, Məranáw; PD ***paruparu** *‘butterfly’*)
 
 parúparó: butterfly (Tagálog [dial. Manileño], *var*. paparó)
 
+paruparu: butterfly (Kasiguránin)
+
 pap’aya: butterfly (Southern Finontók [dial. Tinoveng], *var*. pap’ayya)
 
 pap’ayya: butterfly (Southern Finontók [dial. Tinoveng], *var*. pap’aya)
@@ -749,7 +751,7 @@ Proto-Malayo-Polynesian ***qulej** *‘maggot, caterpillar, larva of a metamorph
 
 ### Discussions
 
-[1] **paru** ‘*butterfly*<sub>?</sub>’ 
+[1] ***paru** ‘*butterfly*<sub>?</sub>’ 
 
 Originally, the Tagalog word “*parúparó*” is believed to be a contraction of Spanish *papalote* (‘kite’), from Classical Nahuatl *pāpalōtl* (‘butterfly’). However, the word appears to have a falsely assumed etymology. Thus, after some comparison, the author of this dictionary is suggesting a different origin.
  
@@ -757,13 +759,17 @@ Originally, the Tagalog word “*parúparó*” is believed to be a contraction 
  
 Most of the terms for ‘butterfly’ are products of doubling morphemes to form new words, cf. *bila-bilá*, *kabàkabà*, *kupu-kupu* (in Malay), etc. The proto-phonemes *d and *r usually become *l when entering some languages in the Central Luzon group, e.g. PMP *duha ‘two’ > 𝚡𝚜𝚋 *lowa, PMP *diŋdiŋ₁ > 𝚊𝚢𝚝 *liŋliŋ, PPh *tarús ‘to understand, grasp something intellectually’ > 𝚜𝚐𝚋 *taloh. In Maguindanáwon, /ɾ/ and /l/ are interchangeable in words that include a written ⟨l⟩, depending on their dialect.
  
-⚬ PPh **paru** ‘*butterfly*<sub>?</sub>’ 
+⚬ PPh ***paru** ‘*butterfly*<sub>?</sub>’ 
 
 ▪ GCP *paruparu ‘butterfly’ 
 
    ▫ CP *paruparu ‘butterfly’
    
+   ▸ Kasiguranin–Tagalog
+   
      → *parúparó (Tagálog [Manileño])
+     
+     → *paruparu (Kasiguránin)
      
    ▫ Danao *paruparu ‘butterfly’
    
@@ -775,7 +781,9 @@ Most of the terms for ‘butterfly’ are products of doubling morphemes to form
         
      → *paruparu (Iranun)
      
-▪ CL *palopalo ‘butterfly’
+▪ CL *palupalu ‘butterfly’
+
+   ▫ Sambalic *palupalu ‘butterfly’
 
      → *palopalo (Áyta Mag-ántsi)
      

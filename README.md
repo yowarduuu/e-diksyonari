@@ -39,7 +39,7 @@ alébangbang: butterfly (Northern Álta [=Edimala]; PAn ***baŋbaŋ₂** *‘but
 
 alibabbang: butterfly (Ibanág; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
-alibangbang: butterfly (Bantayanón, Higaónon, Porohánon)
+alibangbang: butterfly (Bantayanón, Higaónon, Inatá, Inagtâ Irigá, Porohánon)
 
 alibángbang: butterfly (Akɣánon, Boînən Bíkol, Central Bíkol<sub>dialectal</sub>, Cuyonón, Hiligáynon, Inagtâ Irayá, Kinaráy-a, Masbateño, Riŋconāda Bíkol [dial. Sinabukid: Iriga<sub>area</sub>, dial. Sinaranəw: Bato<sub>area</sub>]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
@@ -56,6 +56,8 @@ alifambang: butterfly (Gáddang, Gâdang; PAn ***baŋbaŋ₂** *‘butterfly, mo
 alipadu: butterfly (Hátang Kayê [=Remontádo])
 
 aliparó: small, yellow-colored butterflies, especially the sulphurs or yellows, cf. <sub>fam</sub>Pieridae: <sub>subfam</sub>Coliadinae Swainson, 1827 (Tagálog, *syn*. alibangbáng)
+
+alipôpò: butterfly (Faire Átta)
 
 alipuru: butterfly (Kapampángan [dial. Bataaneño])
 
@@ -91,6 +93,8 @@ bingkulan: brush-footed butterflies, especially the admirals and relatives, cf. 
 
 belembang: butterfly (Central Sinubánen [=Sindangan]; PWMP	***belembaŋ** *‘butterfly, moth’*)
 
+bɨlɨmbang: butterfly (Northern Sinubánen [=Tuboy])
+
 bobodo: butterfly (Ibalói)
 
 bolbol’o: butterfly (Kankanáəy [dial. Mankayan-Buguias])
@@ -117,11 +121,13 @@ gopapa: butterfly (Abéllen Áyta)
 
 ia̍h-á 蛾仔: butterfly <sub>*colloquial, nonstandard?*</sub> (Philippine Hokkien [=Lán-lâng-ūe]; from **ia̍h** [蛾] *‘moth’* and **á** [仔] *‘minutely; young,’* *cf* Taiwanese Hokkien: *moths*, *syn*. bé-ia̍h)
 
-kabàkabà: butterfly (Bahása Sūg, Mamanwá, Agúsan Manóbo, Áta Manóbo, Pullun Mapún, Central Sama)
+kabàkabà: butterfly (Bahása Sūg, Mamanwá, Agúsan Manóbo, Áta Manóbo, Pullun Mapún, Central Sama [dial. Sama Musu’, dial. Sama Bannaran, dial. Sama Laminusa], Southern Sama [dial. Sama Balimbing, dial. Sama Simunul, dial. Sama Tandu’-bās])
 
 kaba-kabâ: a species of big black butterfly (Baybayánon) 
 
 kabah-kabah: butterfly (Southern Sama [dial. Sibutu’])
+
+kabangbang: butterfly (Davaoeño: Santa Cruz<sub>area</sub>)
 
 kalalandong: butterfly (Agutaynén)
 
@@ -131,7 +137,7 @@ kalbangi: butterfly (Bláan Saranggáni [=Tumanao]; PSM ***kalbangi** *‘butter
 
 kalbɔnge: butterfly (Bláan Koronadal [=Tagalagad]; PSM ***kalbangi** *‘butterfly’*)
 
-kalibangbang: butterfly (Aborlan Tagbanwá, Binúkid, Calamian Tagbanwá, Cotabato Manóbo [=Dulángan], Higaónon, Sambál, Tagakawló, Tagabawà Bagóbô; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
+kalibangbang: butterfly (Aborlan Tagbanwá, Binúkid, Calamian Tagbanwá, Cotabato Manóbo [=Dulángan], Higaónon, Pahanan Agtâ, Manidé, Sambál, Tagakawló, Tagabawà Bagóbô; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
 kalibángbang: butterfly (Central Bíkol [dial. Tabaco–Legazpi–Sorsogon], Caluyánhən; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
@@ -245,7 +251,7 @@ maripósa<sub>1</sub>: butterfly (Chavacano, Philippine Spanish; borrowed from S
 
 maymay’á: butterfly (Kankanáəy<sub>𝚞𝚗𝚍</sub>)
 
-ol’olappoy: butterfly (Finerángaw; PSCC ***ku(m)papɨ́y** *‘butterfly’*)
+ol’olappóy: butterfly (Finerángaw; PSCC ***ku(m)papɨ́y** *‘butterfly’*)
 
 o’olopoy: butterfly (Tuwalí Ifugáo [dial. Lagawe Ifugáo]; PSCC ***ku(m)papɨ́y** *‘butterfly’*) 
 

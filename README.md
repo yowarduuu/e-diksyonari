@@ -93,7 +93,7 @@ bingkulan: brush-footed butterflies, especially the admirals and relatives, cf. 
 
 belembang: butterfly (Central Sinubánen [=Sindangan]; PWMP	***belembaŋ** *‘butterfly, moth’*)
 
-bɨlɨmbang: butterfly (Northern Sinubánen [=Tuboy])
+bɨlɨmbang: butterfly (Northern Sinubánen [=Tuboy]; PWMP	***belembaŋ** *‘butterfly, moth’*)
 
 bobodo: butterfly (Ibalói)
 
@@ -267,13 +267,13 @@ palo’palo’: butterfly (Botolán)
 
 palu: butterfly (Mag-indí Áyta)
 
-palu-palu: butterfly (Magindanáwon; PD ***paruparu** *‘butterfly’*)
+palu-palu: butterfly (Magindanáwon [dial. Tau sa Laya, dial. Biwangen]; PD ***paruparu** *‘butterfly’*)
 
 papalò - butterfly (Ambalá Áyta, Magbukón Áyta: Bagac<sub>area</sub>])
 
 paparó: butterfly (Tagálog)
 
-paroparo: butterfly (Iránun, Məranáw; PD ***paruparu** *‘butterfly’*)
+paroparo: butterfly (Iránun, Məranáw [dial. Iranaon]; PD ***paruparu** *‘butterfly’*)
 
 parúparó: butterfly (Tagálog [dial. Manileño], *var*. paparó)
 
@@ -785,7 +785,7 @@ Most of the terms for ‘butterfly’ are products of doubling morphemes to form
      
         ↳ *palu-palu (Magindanáwon)
         
-     → *paruparu (Iranun)
+     → *paroparo (Iránun)
      
 ▪ CL *palupalu ‘butterfly’
 
@@ -803,7 +803,7 @@ Most of the terms for ‘butterfly’ are products of doubling morphemes to form
    
 Forms like paparo (in 𝚝𝚐𝚕) or papalo (in Áyta languages) might have existed as a product of deleting the second vowel or second syllable of a word, cf. PAn *baŋbaŋ₂ ‘butterfly, moth’ > Paláw-an Brooke’s Point *babang [*verification needed*]. 
  
-2) The prefix PAN *qali- was added to the root. This is similar to PWMP *qali-baŋbaŋ, from PAN *baŋbaŋ₂ 'butterfly, moth.' The prefix *qali- here marks that the animal has a sensitive relationship to the spirit world.
+2) The prefix PAN *qali- was added to the root. This is similar to PWMP *qali-baŋbaŋ, from PAN *baŋbaŋ₂ ‘butterfly, moth.’ The prefix *qali- here marks that the animal has a sensitive relationship to the spirit world.
  
 𝚝𝚐𝚕 *aliparó is borrowed by Hátang Kayê (=Remontádo). When the word entered the language, it became 𝚊𝚐𝚟 *alipadu considering that the phoneme *r of the loanword naturally turns to *d when entering the language, e.g., 𝚜𝚙𝚊 *horas > 𝚊𝚐𝚟 *údas ‘hour,’ 𝚝𝚐𝚕 *bahagharì > 𝚊𝚐𝚟 *balaghádì ‘rainbow.’ 
  
@@ -817,6 +817,11 @@ Forms like paparo (in 𝚝𝚐𝚕) or papalo (in Áyta languages) might have ex
  
 The exact origin of Capampángan (Bataaneño) *alipuru is still dubious, but it is believed that it followed the suggested protoword. This might have been borrowed from Tagalog when the language migrated to the original Capampángan-speaking areas in east Bataan, and the word was borrowed due to intense contact with Tagalog speakers who settled in the province after moving from southern Luzon, which later displaced the language to the towns near Pampanga. 
 
+The distribution of the term is limited to the Kasiguranin-Tagalog of the Central Philippine group, which, together with the Danao languages, provides the idea that the term is present in the Greater Central Philippine branch. Outside of this, the term is present only in some of Central Luzon’s Sambalic languages. While Spanish *papalote* (‘kite’) might be a good explanation, it seems inappropriate for inclusion as a loanword. Because this is “borrowed” between unrelated languages, this might give rise to an invalid reconstruction. 
+ 
+It is noted that a similar form outside the Philippines is Malay *paruparu ‘lungs (organ that extracts oxygen from the air).’ Others may say that the conceptual link between the lungs (associated with the breath = life force, soul) and the shapes and forms of a butterfly's wing (associated with the souls of the dead) may have been present already in PMP, but it is questionable because there are no agreements for this relationship among the affected languages.
+ 
+Nonetheless, the origin of the word needs to be meticulously studied. While doing that, we should not be dependent on Spanish and Bahasa Melayu. While we borrow deeply from these two, the majority of the words in our  languages developed on their own.   
 
 ### #Help: How to contribute
 

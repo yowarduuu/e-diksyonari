@@ -777,7 +777,7 @@ Most of the terms for ‘butterfly’ are products of doubling morphemes to form
      
      → *paruparu (Kasiguránin)
      
-   ▫ Danao *paruparu ‘butterfly’
+   ▫ Danao *paruparu ‘butterfly’ (Allison, 1979)
    
      → *paroparo (Məranáw)
      

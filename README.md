@@ -757,7 +757,7 @@ Proto-Malayo-Polynesian ***qulej** *‘maggot, caterpillar, larva of a metamorph
 
 ### Discussions
 
-[1] ***paru** *‘something that resembles or suggests a butterfly; butterfly, moth<sub>?</sub>’*
+[1] ***paru** *‘a type of insect with two pairs of broad wings; butterfliessub>?</sub>’*
 
 Originally, the Tagalog word “*parúparó*” is believed to be a contraction of Spanish *papalote* (‘kite’), from Classical Nahuatl *pāpalōtl* (‘butterfly’). However, the word appears to have a falsely assumed etymology. Thus, after some comparison, the author of this dictionary is suggesting a different origin.
  
@@ -767,7 +767,7 @@ Most of the terms for ‘butterfly’ are products of doubling morphemes to form
  
 ⚬ PPh ***paru** *‘a type of insect with two pairs of broad wings; butterflies<sub>?</sub>’*
 
-▪ GCP *paruparu *‘something that resembles or suggests a butterfly; butterfly, moth’*
+▪ GCP *pa(ru)-paru *‘something that resembles or suggests a butterfly; butterfly, moth’*
 
    ▫ CP *paruparu *‘butterfly, moth’*
    

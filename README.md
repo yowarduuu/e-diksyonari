@@ -757,7 +757,7 @@ Proto-Malayo-Polynesian ***qulej** *‘maggot, caterpillar, larva of a metamorph
 
 ### Discussions
 
-[1] ***paru** ‘*butterfly*<sub>?</sub>’ 
+[1] ***paru** *‘something that resembles or suggests a butterfly; butterfly, moth<sub>?</sub>’*
 
 Originally, the Tagalog word “*parúparó*” is believed to be a contraction of Spanish *papalote* (‘kite’), from Classical Nahuatl *pāpalōtl* (‘butterfly’). However, the word appears to have a falsely assumed etymology. Thus, after some comparison, the author of this dictionary is suggesting a different origin.
  
@@ -765,11 +765,11 @@ Originally, the Tagalog word “*parúparó*” is believed to be a contraction 
  
 Most of the terms for ‘butterfly’ are products of doubling morphemes to form new words, cf. *bila-bilá*, *kabàkabà*, *kupu-kupu* (in Malay), etc. The proto-phonemes *d and *r usually become *l when entering some languages in the Central Luzon group, e.g. PMP *duha ‘two’ > 𝚡𝚜𝚋 *lowa, PMP *diŋdiŋ₁ > 𝚊𝚢𝚝 *liŋliŋ, PPh *tarús ‘to understand, grasp something intellectually’ > 𝚜𝚐𝚋 *taloh. In Maguindanáwon, /ɾ/ and /l/ are interchangeable in words that include a written ⟨l⟩, depending on their dialect.
  
-⚬ PPh ***paru** ‘*butterfly*<sub>?</sub>’ 
+⚬ PPh ***paru** *‘a type of insect with two pairs of broad wings; butterflies<sub>?</sub>’*
 
-▪ GCP *paruparu ‘butterfly’ 
+▪ GCP *paruparu *‘something that resembles or suggests a butterfly; butterfly, moth’*
 
-   ▫ CP *paruparu ‘butterfly’
+   ▫ CP *paruparu *‘butterfly, moth’*
    
    ▸ Kasiguranin–Tagalog
    
@@ -777,7 +777,7 @@ Most of the terms for ‘butterfly’ are products of doubling morphemes to form
      
      → *paruparu (Kasiguránin)
      
-   ▫ Danao *paruparu ‘butterfly’ (Allison, 1979)
+   ▫ Danao *paruparu *‘butterfly, moth’* (Allison, 1979)
    
      → *paroparo (Məranáw)
      
@@ -787,9 +787,9 @@ Most of the terms for ‘butterfly’ are products of doubling morphemes to form
         
      → *paroparo (Iránun)
      
-▪ CL *palupalu ‘butterfly’
+▪ CL *palupalu *‘butterfly’*
 
-   ▫ Sambalic *palupalu ‘butterfly’
+   ▫ Sambalic *palupalu *‘butterfly’*
 
      → *palopalo (Áyta Mag-ántsi)
      
@@ -803,7 +803,7 @@ Most of the terms for ‘butterfly’ are products of doubling morphemes to form
  
 𝚝𝚐𝚕 *aliparó is borrowed by Hátang Kayê (=Remontádo). When the word entered the language, it became 𝚊𝚐𝚟 *alipadu considering that the phoneme *r of the loanword naturally turns to *d when entering the language, e.g., 𝚜𝚙𝚊 *horas > 𝚊𝚐𝚟 *údas ‘hour,’ 𝚝𝚐𝚕 *bahagharì > 𝚊𝚐𝚟 *balaghádì ‘rainbow.’ 
  
-▪ *qali-paru ‘butterfly’ 
+▪ *qali-paru *‘butterfly’*
 
     → *aliparó (Tagálog [Manileño])
     

@@ -797,7 +797,9 @@ Most of the terms for ‘butterfly’ are products of doubling morphemes to form
      
      → *palo’palo’ (Botolán)
      
-     → *palò (Áyta Ambalá, Mag-indí Áyta)
+     → *palò (Áyta Ambalá)
+
+     → *palò (Mag-indí Áyta)
    
 2) The prefix PAN *qali- was added to the root. This is similar to PWMP *qali-baŋbaŋ, from PAN *baŋbaŋ₂ ‘butterfly, moth.’ The prefix *qali- here marks that the animal has a sensitive relationship to the spirit world.
  

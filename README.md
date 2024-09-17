@@ -345,7 +345,7 @@ imemadung: a kind of small moth (Saranggáni Manóbo)
 
 itiit: clothes moths and moths whose larvae can destroy fabric and other materials, <sub>fam</sub>Tineidae Latreille, 1810 (Central Bíkol)
 
-kagkanog: (Inabaknón)
+kagkanog: moth (Inabaknón)
 
 kakánog: moth (Lineyte-Samarnón, Masbateño, Pandán Bíkol [=Northern Catanduanes Bíkol])
 
@@ -419,6 +419,8 @@ aláw: any small to medium-sized, hairy caterpillar that causes painful sensatio
 
 alimbubúdo: a large, dark, hairy caterpillar (Ilóko; from **búdo**<sub>𝚒𝚕𝚘</sub> *‘hair of insects; itch’*) 
 
+alunglungas: a green-and-black-colored caterpillar feeding on grasses (Agtâ Ilabin [=Central Cagayan Agtâ])
+
 antatādu: a sphinx moth caterpillar, <sub>fam</sub>Sphingidae Latreille, 1802 (Bátad Ifugáo; PWMP ***qantatadu** *‘large stinging green caterpillar’*)
 
 antatádul: caterpillar (Ilóko; PWMP ***qantatadu** *‘large stinging green caterpillar’*)
@@ -476,6 +478,8 @@ bitî-bítì: a caterpillar that contains quill-like hairs that are connected to
 budobudo: a hairy caterpillar (Ilóko; from **búdo**<sub>𝚒𝚕𝚘</sub> *‘hair of insects; itch’*, *var*. budobudoán) 
 
 budobudoán: a hairy caterpillar (Ilóko; from **búdo**<sub>𝚒𝚕𝚘</sub> *‘hair of insects; itch’*, *var*. budobudo) 
+
+buláti: caterpillar<sub>*archaic, poetic*</sub> (Tagálog; PMP ***bulati** *‘roundworm, ascaris, intestinal worm; also earthworm*<sub>?</sub>’, *alternative form* buláte)
 
 bulayung: a kind of caterpillar (Tanudan Kalíngga [dial. Minangali])
 
@@ -587,6 +591,8 @@ mambibílot: rice caseworm; a semiaquatic caterpillar that cuts the leaf tips of
 
 maniniklóp: rice caseworm; a semiaquatic caterpillar that cuts the leaf tips of rice plants *Oryza* spp. L., <sub>fam</sub>Poaceae to make leaf cases, cf. <sub>fam</sub>Crambidae Latreille, 1810: <sub>subfam</sub>Acentropinae Stephens, 1836 (Tagálog; from **tiklóp**<sub>𝚝𝚐𝚕</sub> *‘to fold; to close by folding’*)
 
+mutsáng-mutsáng: a hairy caterpillar (Tagálog [dial. Caviteño]; from Hokkien **mô͘-thâng** 毛蟲 *‘caterpillar’* with reduplication, *var.* símutsáng)
+
 ochang: a large caterpillar with reddish hairs (Central Finontók [dial. Khinina-ang])
 
 ohә́d: caterpillar (Ivatán [dial. Ivasayen, Isamurongen], Ibatán [=Babuyan]; PMP ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’*)
@@ -627,7 +633,7 @@ sarára: a small, brown, hairy caterpillar (Ilóko)
 
 saring: a small, hairy caterpillar that causes painful sensations that include pain, rash, burning, itching, swelling, and blistering when touched (Mansáka)
 
-simutsang: a hairy caterpillar (Tagálog [dial. Rizaleño, Caviteño])
+símutsáng: a hairy caterpillar (Tagálog [dial. Rizaleño, Caviteño]; from Hokkien **chhì-mô͘-thâng** 刺毛蟲 *‘hairy caterpillar’*, *var.* tsimutsang)
 
 seka: a hairy caterpillar, with either red or black hairs (Karáo)
 

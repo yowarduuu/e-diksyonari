@@ -39,7 +39,7 @@ alébangbang: butterfly (Northern Álta [=Edimala]; PAn ***baŋbaŋ₂** *‘but
 
 alibabbang: butterfly (Ibanág; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
-alibangbang: butterfly (Bantayanón, Higaónon, Inatá, Inagtâ Irigá, Porohánon)
+alibangbang: butterfly (Bantayanón, Higaónon, Inatá, Inagtâ Irigá, Porohánon; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
 alibángbang: butterfly (Akɣánon, Boînən Bíkol, Central Bíkol<sub>dialectal</sub>, Cuyonón, Hiligáynon, Inagtâ Irayá, Kinaráy-a, Masbateño, Riŋconāda Bíkol [dial. Sinabukid: Iriga<sub>area</sub>, dial. Sinaranəw: Bato<sub>area</sub>]; PAn ***baŋbaŋ₂** *‘butterfly, moth’*)
 
@@ -749,17 +749,17 @@ tandô-tándò<sub>2</sub>: chrysalis (Kinaráy-a, Hiligáynon; from **tándò**
 
 #### Protowords
 
-Proto-Austronesian ***baŋbaŋ₂** *‘butterfly, moth’* and Proto-Western-Malayo-Polynesian	***belembaŋ** *‘butterfly’* (Blust & Trussel, 2020)
+Proto-Austronesian ***baŋbaŋ₂** *‘butterfly, moth’* and Proto-Western-Malayo-Polynesian	***belembaŋ** *‘butterfly’* [(Blust & Trussel, 2020)](https://acd.clld.org/) [Note: Now served on the website as v1.2, c. 2023]
 
-Proto-South Central Cordilleran ***ku(m)papɨ́y** *‘butterfly’* (Himes, 1998)
+Proto-South Central Cordilleran ***ku(m)papɨ́y** *‘butterfly’* [(Himes, 1998)](https://www.sil.org/system/files/reapdata/16/66/17/166617266478841681745375568869640859464/Himes.pdf)
 
-Proto-South-Mindanaon ***kalbangi** *‘butterfly’* (Zorc)
+Proto-South-Mindanaon ***kalbangi** *‘butterfly’* [(Zorc, 2019)](https://journals.upd.edu.ph/index.php/archive/article/download/9325/8239/)
 
-Proto-Danao ***paruparu** *‘butterfly’* (Allison, 1979)
+Proto-Danao ***paruparu** *‘butterfly’* [(Allison, 1979)](http://sealang.net/archives/pl/pdf/PL-A55.53.pdf)
 
-Proto-Western-Malayo-Polynesian ***qantatadu** *‘large stinging green caterpillar’* and its variants ***tatadu** and ***hantatadu**, as well as its descendant Proto-Malayo-Polynesian ***katadu** (Blust & Trussel, 2020)
+Proto-Western-Malayo-Polynesian ***qantatadu** *‘large stinging green caterpillar’* and its variants ***tatadu** and ***hantatadu**, as well as its descendant Proto-Malayo-Polynesian ***katadu** [(Blust & Trussel, 2020)](https://acd.clld.org/) [Note: Now served on the website as v1.2, c. 2023]
 
-Proto-Malayo-Polynesian ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’* (Blust & Trussel, 2020)
+Proto-Malayo-Polynesian ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’* [(Blust & Trussel, 2020)](https://acd.clld.org/) [Note: Now served on the website as v1.2, c. 2023]
 
 ### Discussions   
 

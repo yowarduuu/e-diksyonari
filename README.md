@@ -14,18 +14,22 @@ A lengthened vowel is written with a macron ⟨&#x02C9;⟩ only if it is part of
 
 Additionally, accents are employed in the following cases: a circumflex accent ⟨&#x02C6;⟩ signifies that both a stress and a glottal stop occur in the final vowel, or a glottal stop is present in the middle of a word; a grave accent ⟨&#x0060;⟩ denotes that the glottal stop occurs at the final vowel but the stress occurs at the penultimate syllable; and lastly, an acute accent ⟨&#x00B4;⟩ highlights a stress on any of the syllables. Additional acute accents in a word indicate that vowel lengthening accompanies primary or secondary stress. A glottal stop is unrepresented if it occurs at the beginning of a word.
 
-The entries are presented alphabetically. The arrangement of several entries, however, demands some clarity. The order is as follows:
-
-a) Words with a diacritic follow a word without one, e.g., *kalibangbang* precedes *kalibángbang*, which precedes *kalibangbáng*.
-
-b) Words that are apostrophe- or hyphen-free come before their identical counterparts that contain these marks, e.g., *tilás* precedes *til’ás*.
-
-c) Words that begin with a distinct phoneme adhere to a specific ordering, e.g., *ɣupák* follows *lupák*.
+>[!NOTE]
+>The entries are presented alphabetically. The arrangement of several entries, however, demands some clarity. The order is as follows:
+>
+>a) Words with a diacritic follow a word without one, e.g., *kalibangbang* precedes *kalibángbang*, which precedes *kalibangbáng*.
+>
+>b) Words that are apostrophe- or hyphen-free come before their identical counterparts that contain these marks, e.g., *tilás* precedes *til’ás*.
+>
+>c) Words that begin with a distinct phoneme adhere to a specific ordering, e.g., *ɣupák* follows *lupák*.
 
 The order is determined by the spelling or the relative position of the orthographic letters in the alphabet, especially if the pronunciation of the word is in doubt. Some words lack accent marks because they are drawn from written sources and/or because there are no available speakers who can verify the pronunciation.   
 
-> [!NOTE]
+> [!TIP]
 > This dictionary can be utilized by performing a term search. If you're on a PC, press `Control` + `F` to start searching. If not, simply scroll. It is not recommended to search this wordlist using a species name. You can use either the indigenous name or its [language](https://github.com/yowarduuu/e-diksyonari/blob/varieties/README.md) as a search key to perform tasks faster than usual.
+
+> [!WARNING]
+> Searching for specific terms can be limited when words contain special characters or diacritical marks not readily available on standard keyboards. This can make it challenging to find relevant information or accurately input search terms. This issue should be resolved soon.
 
 The dictionary seeks to remain respectful of each language's unique orthography and makes an effort to avoid displaying informal spellings and/or commonly misspelled variations. This dictionary is not yet complete and never will be. Not even close. In fact, we have only just started. Please keep in mind that this is a work in progress. Therefore, instead of wasting time measuring progress, help us create it.
  
@@ -765,4 +769,8 @@ Proto-Malayo-Polynesian ***qulej** *‘maggot, caterpillar, larva of a metamorph
 
 ### #Help: How to contribute
 
-If you know a word that is used to define the adult and immature stages of moths and butterflies and it does not exist in this dictionary, [please add it](https://github.com/yowarduuu/e-diksyonari/wiki/Help:-Requests). It's perfectly fine if you have no knowledge of etymology, species identification, or anything else; your humblest contribution is welcome. Any blanks can be filled in by someone else afterwards. The word's language, forms, and meaning are the absolute minimum that you must provide.
+>[!IMPORTANT]
+>If you know a word that is used to define the adult and immature stages of moths and butterflies and it does not exist in this dictionary, [please add it](https://github.com/yowarduuu/e-diksyonari/wiki/Help:-Requests). It's perfectly fine if you have no knowledge of etymology, species identification, or anything else; your humblest contribution is welcome. Any blanks can be filled in by someone else afterwards. The word's language, forms, and meaning are the absolute minimum that you must provide.
+
+>[!WARNING]
+>Link leads to a Google Form. Your data will be stored securely, but please exercise caution when providing sensitive information. 

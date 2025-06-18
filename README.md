@@ -761,75 +761,7 @@ Proto-Western-Malayo-Polynesian ***qantatadu** *‘large stinging green caterpil
 
 Proto-Malayo-Polynesian ***qulej** *‘maggot, caterpillar, larva of a metamorphosing insect’* (Blust & Trussel, 2020)
 
-### Discussions
-
-[1] ***paru** *‘a type of insect with two pairs of broad wings; butterflies<sub>?</sub>’*
-
-Originally, the Tagalog word “*parúparó*” is believed to be a contraction of Spanish *papalote* (‘kite’), from Classical Nahuatl *pāpalōtl* (‘butterfly’). However, the word appears to have a falsely assumed etymology. Thus, after some comparison, the author of this dictionary is suggesting a different origin.
- 
-1) The word was reduplicated. The proto-phoneme *r became *l when it entered other languages. 
- 
-Most of the terms for ‘butterfly’ are products of doubling morphemes to form new words, cf. *bila-bilá*, *kabàkabà*, *kupu-kupu* (in Malay), etc. The proto-phonemes *d and *r usually become *l when entering some languages in the Central Luzon group, e.g. PMP *duha ‘two’ > 𝚡𝚜𝚋 *lowa, PMP *diŋdiŋ₁ > 𝚊𝚢𝚝 *liŋliŋ, PPh *tarús ‘to understand, grasp something intellectually’ > 𝚜𝚐𝚋 *taloh. In Maguindanáwon, /ɾ/ and /l/ are interchangeable in words that include a written ⟨l⟩, depending on their dialect.
- 
-⚬ PPh ***paru** *‘a type of insect with two pairs of broad wings; butterflies<sub>?</sub>’*
-
-▪ GCP *pa(ru)-paru *‘something that resembles or suggests a butterfly; butterfly, moth’*
-
-   ▫ CP *paruparu *‘butterfly, moth’*
-   
-   ▸ Kasiguranin–Tagalog
-   
-     → *parúparó (Tagálog [Manileño])
-     
-     → *paruparu (Kasiguránin)
-     
-   ▫ Danao *paruparu *‘butterfly, moth’* (Allison, 1979)
-   
-     → *paroparo (Məranáw)
-     
-     → *paruparu (Magindanáwon)
-     
-        ↳ *palu-palu (Magindanáwon)
-        
-     → *paroparo (Iránun)
-     
-▪ CL *palupalu *‘butterfly’*
-
-   ▫ Sambalic *palupalu *‘butterfly’*
-
-     → *palopalo (Áyta Mag-ántsi)
-     
-     → *palopalo (Áyta Magbukón)
-     
-     → *palo’palo’ (Botolán)
-     
-     → *palò (Áyta Ambalá)
-
-     → *palò (Mag-indí Áyta)
-   
-2) The prefix PAN *qali- was added to the root. This is similar to PWMP *qali-baŋbaŋ, from PAN *baŋbaŋ₂ ‘butterfly, moth.’ The prefix *qali- here marks that the animal has a sensitive relationship to the spirit world.
- 
-𝚝𝚐𝚕 *aliparó is borrowed by Hátang Kayê (=Remontádo). When the word entered the language, it became 𝚊𝚐𝚟 *alipadu considering that the phoneme *r of the loanword naturally turns to *d when entering the language, e.g., 𝚜𝚙𝚊 *horas > 𝚊𝚐𝚟 *údas ‘hour,’ 𝚝𝚐𝚕 *bahagharì > 𝚊𝚐𝚟 *balaghádì ‘rainbow.’ 
- 
-▪ *qali-paru *‘butterfly’*
-
-    → *aliparó (Tagálog [Manileño])
-    
-        ↳ *alipadu (Hátang Kayê)   
-        
-    ↪ *alipuru (Capampángan [Bataaneño])
- 
-The exact origin of Capampángan (Bataaneño) *alipuru is still dubious, but it is believed that it followed the suggested protoword. This might have been borrowed from Tagalog when the language migrated to the original Capampángan-speaking areas in east Bataan, and the word was borrowed due to intense contact with Tagalog speakers who settled in the province after moving from southern Luzon, which later displaced the language to the towns near Pampanga. 
-
-Forms like *paparo* (in 𝚝𝚐𝚕, 𝚖𝚛𝚠) or *papalò* (in 𝚊𝚋𝚌, 𝚊𝚢𝚝) might have existed as a product of deleting the second syllable of a word, cf. PAn *baŋbaŋ₂ ‘butterfly, moth’ > 𝚙𝚕𝚠 *babang, PMP *manu(k)-manuk ‘bird’ > PD *papanuk ‘bird’ [*verification needed*]. It is good to note that in every branch, both the *paruparu and *paparu forms exist to refer to butterflies, or alternatively, moths. It was also observed that a form of *paru, as in the case of Ambalá Áyta, Mag-indí Áyta *palò*, can stand on its own to refer to butterflies. This might be observed as well between the neighboring languages from Indonesia: Javanese *kupu, Sundanese *kukupu, and Indonesian *kupu-kupu; thus, it is not necessarilly needed to have *papalote to have the forms *paparó* and *parúparó*, as a single *paru itself can be reduplicated and reduced, forming several variants. The root *paro in Tagalog, however, possibly became archaic when the new commonly used words (aliparó, parúparó, paparó) for ‘butterfly, moth’ replaced it. 
-
-In Məranáw, it is mentioned that the term came from the root 𝚖𝚛𝚠 *paro* ‘comfortable situation; to make comfortable,’ a symbolism for freedom and free will, having wings, which denotes being free of anything. A single cognate, however, does not exist in any of the languages containing a descendant of *paruparu. Thus, while it may be applied among Danao languages, it does not represent the whole protoword at the Proto-Philippine level.  
- 
-The distribution of the term includes the Kasiguranin-Tagalog of the Central Philippine group, which, together with the Danao languages, provides the idea that the term is present in the Greater Central Philippine branch. Outside of this, the term is present only in some of Central Luzon’s Sambalic languages. While Spanish *papalote* (‘kite’) might be a good explanation, it seems inappropriate for inclusion as a loanword. Because this is “borrowed” between unrelated languages, this might give rise to an invalid reconstruction. 
- 
-It is noted that a similar form outside the Philippines is Malay *paruparu ‘lungs (organ that extracts oxygen from the air).’ Others may say that the conceptual link between the lungs (associated with the breath = life force, soul) and the shapes and forms of a butterfly's wing (associated with the souls of the dead) may have been present already in PMP, but it is questionable because there are no agreements for this relationship among the affected languages.
- 
-Nonetheless, the origin of the word needs to be meticulously studied. While doing that, we should not be dependent on Spanish and Bahasa Melayu. While we borrow deeply from these two, the majority of the words in our  languages developed on their own.   
+### Discussions   
 
 ### #Help: How to contribute
 
